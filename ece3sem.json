@@ -1,0 +1,147 @@
+[ {
+        "_id": "5ef45d010a021f4b042e44b5",
+        "subcode": "17MAT31",
+        "subname": " Engineering Mathematics - III ",
+        "m1": "Module 1",
+        "m1desc": "Fourier Series:\n Periodic functions, Dirichlet’s condition, Fourier Series of periodic functions with period 2π and with arbitrary period 2c. Fourier series of even and odd functions. Half range Fourier Series, practical harmonic Analysis-Illustrative examples from engineering field.\n\n",
+        "m2": "Module 2",
+        "m2desc": "Fourier Transforms:\n Infinite Fourier transforms, Fourier sine and cosine transforms. Inverse Fourier transform.  Z-transform: \nDifference equations, basic definition, z-transform definition, Standard z-transforms, Damping rule, Shifting rule, Initial value and final value theorems (without proof) and problems, Inverse ztransform. Applications of z-transforms to solve difference equations.\n\n",
+        "m3": "Module 3",
+        "m3desc": "Statistical Methods:\n Review of measures of central tendency and dispersion. CorrelationKarl Pearson’s coefficient of correlation-problems. Regression analysis- lines of regression (without proof) –problems Curve Fitting: Curve fitting by the method of least squares- fitting of the curves of the form, y= ax + b, y = ax2+ bx + c and y = aebx. Numerical Methods: Numerical solution of algebraic and transcendental equations by Regula- Falsi Method and Newton-Raphson method.\n\n",
+        "m4": "Module 4",
+        "m4desc": "Finite differences:\n Forward and backward differences, Newton’s forward and backward interpolation formulae. Divided differences- \nNewton’s divided difference formula. Lagrange’s interpolation formula and inverse interpolation formula (all formulae without proof)- problems.  Numerical integration: Simpson’s (1/3)th and (3/8)th rules, Weddle’s rule (without proof ) – Problems.\n\n",
+        "m5": "Module 5",
+        "m5desc": "Vector integration:\n Line integrals-definition and problems, surface  and volume integrals-definition, Green’s theorem in a plane, Stoke s and Gauss-divergence theorem (without proof) and problems.  Calculus of Variations: Variation of function and Functional, variational  problems. Euler’s equation, Geodesics, hanging chain, problems.\n\n",
+        "descname": "Prescribed text books",
+        "descdata": "Text Books:\n1. B.S. Grewal: Higher Engineering Mathematics, Khanna Publishers, 43rd Ed., 2015.  \n 2. E. Kreyszig: Advanced Engineering Mathematics, John Wiley & Sons, 10th Ed., 2015.\n\n   Reference Books:\n   1. N.P. Bali and Manish Goyal: A Text Book of Engineering Mathematics, Laxmi Publishers, 7th Ed., 2010.\n 2. B.V. Ramana: Higher Engineering Mathematics Tata McGraw-Hill, 2006.\n 3. H. K. Dass and Er. RajnishVerma: Higher Engineering Mathematics, S. Chand publishing, 1st edition, 2011.\n\n",
+        "__v": 0
+    },
+    {
+        "_id": "min 10 char",
+        "subcode": "17EC33",
+        "subname": "ANALOG ELECTRONICS",
+        "m1": "Module 1",
+        "m1desc": "BJT AC Analysis:\n BJT Transistor Modeling, The re transistor\n model,\nCommon emitter fixed bias, Voltage divider bias, Emitter follower configuration. Darlington\n connection- DC bias; The Hybrid equivalent model,\n Approximate Hybrid Equivalent Circuit- Fixed bias,\n Voltage divider, Emitter follower configuration; Complete\n Hybrid equivalent model, Hybrid π Model. L1, L2,L3\n\n",
+        "m2":"Module 2",
+        "m2desc": "Field Effect Transistors:\n Construction and Characteristics\n of JFETs, Transfer Characteristics, Depletion type MOSFET,\n Enhancement type MOSFET,Enhancement type MOSFET.\n\nFET Amplifiers:\n JFET small signal model, Fixed bias\n configuration, Self bias configuration, Voltage divider\n configuration, Common Gate configuration. Source-\n Follower Configuration, Cascade configuration. L1, L2, L3.\n\n",
+        "m3": "Module 3",
+        "m3desc": "BJT and JFET Frequency Response:\n Logarithms,\n Decibels, Low frequency response – BJT Amplifier with RL,\n Low frequency response-FET Amplifier, Miller effect\n capacitance, High frequency response – BJT Amplifier,\n High frequency response-FET Amplifier,\n Multistage\n Frequency Effects. L1, L2, L3\n\n",
+        "m4": "Module 4",
+        "m4desc": "Feedback and Oscillator Circuits:\n Feedback concepts\n, Feedback connection types, Practical feedback circuits,\n Oscillator operation, FET Phase shift oscillator, Wien\n bridge oscillator, Tuned Oscillator circuit, Crystal\n oscillator, UJT construction, UJT Oscillator. L1,L2, L3\n\n ",
+        "m5": "Module 5",
+        "m5desc": "Power Amplifiers:\n Definition and amplifier types, Series\n fed class A amplifier, Transformer coupled class A\n amplifier, Class B amplifier operation and circuits,\n Amplifier distortion, Class C and Class D amplifiers.\n\n Voltage Regulators: Discrete transistor voltage regulation\n - Series and Shunt Voltage regulators. L1, L2, L3\n\n",
+        "descname": "Robert L. Boylestad and Louis Nashelsky, ―Electronics devices and Circuit theory‖,\nPearson, 10th/11th Edition, 2012, ISBN:978-81-317-6459-6.\n\n",
+        "descdata": "Robert L. Boylestad and Louis Nashelsky, ―Electronics devices and Circuit theory‖,\nPearson, 10th/11th Edition, 2012, ISBN:978-81-317-6459-6.\n\n"
+    },
+    {
+        "_id": "",
+        "subcode": "17EC32",
+        "subname": "ELECTRONIC INSTRUMENTATION",
+        "m1": "Module 1",
+        "m1desc": "Measurement and Error:\n\n Definitions, Accuracy, Precision, Resolution and Significant\n Figures, Types of Errors, Measurement error combinations. (Text 2)\n\n Ammeters:\n DC Ammeter, Multirange Ammeter, The Ayrton Shunt or Universal Shunt,\n Requirements of Shunt, Extending of Ammeter Ranges, RF Ammeter\n (Thermocouple), Limitations of Thermocouple. (Text 1)\n\n Voltmeters and Multimeters:\n Introduction, Basic Meter as a DC Voltmeter,\n DC Voltmeter, Multirange Voltmeter, Extending Voltmeter Ranges, Loading, AC Voltmeter\n using Rectifiers. True RMS Voltmeter, Multimeter. (Text 1) L1, L2, L3\n\n,",
+        "m2": "Module 2",
+        "m2desc": "Digital Voltmeters:\n\n Introduction, RAMP technique, Dual Slope Integrating Type DVM,Integrating Type DVM,\n Most Commonly used principles of ADC, Successive\n Approximations, -Digit, Resolution and Sensitivity of Digital Meters, General\n Specifications of DVM, (Text 1)\n\nDigital Instruments: Introduction, Digital Multimeters, Digital Frequency Meter,\n Digital Measurement of Time, Universal Counter, Digital Tachometer, Digital pH Meter,\n Digital Phase Meter, Digital Capacitance Meter, (Text 1) L1, L2,L3\n\n",
+        "m3": "Module 3",
+        "m3desc": "Oscilloscopes\n: Introduction, Basic principles, CRT features, Block diagram of\n Oscilloscope, Simple CRO, Vertical Amplifier, Horizontal Deflecting System, Sweep or\n Time Base Generator, Measurement of Frequency by Lissajous Method, Digital Storage\n Oscilloscope. (Text 1)\n\n,Signal Generators: Introduction, Fixed and Variable AF Oscillator, Standard Signal\n Generator, Laboratory Type Signal Generator, AF sine and Square Wave Generator,\nFunction Generator, (Text 1) L1, L2\n\n",
+        "m4": "Module 4",
+        "m4desc": "Measuring Instruments:\n Field Strength Meter, Stroboscope, Phase Meter, Q Meter,\n Megger. (Text 1)\n\nBridges:\n Introduction, Wheatstone‘s bridge, Kelvin‘s Bridge; AC bridges, Capacitance\n Comparison Bridge, Inductance Comparison Bridge, Maxwell‘s bridge, Wien‘s bridge.\n (Text 1) L1, L2, L3 \n\n",
+        "m5": "Module 5",
+        "m5desc": "Transducers:\n Introduction, Electrical transducers, Selecting a transducer, Resistive\n transducer, Resistive position transducer, Strain gauges, Resistance thermometer,\n Thermistor, Inductive transducer, LVDT, Piezoelectric transducer, Photo cell, Photo\n voltaic cell, Semiconductor photo diode and transistor. (Text 1) L1, L2, L3",
+        "descname": "Text Books:\n1. H. S. Kalsi, ―Electronic Instrumentation‖, McGraw Hill, 3rd Edition, 2012,\n ISBN:9780070702066.\n 2. David A. Bell, ―Electronic Instrumentation & Measurements‖, Oxford University\n Press PHI 2nd Edition, 2006, ISBN 81-203-2360-2.",
+        "descdata": "Reference Books:\n 1. A. D. Helfrick and W.D. Cooper, ―Modern Electronic Instrumentation and\n Measuring Techniques‖, Pearson, 1st Edition, 2015,ISBN:9789332556065.\n 2. A. K. Sawhney, ―Electronics and Electrical Measurements‖, Dhanpat Rai & Sons.\n ISBN -81-7700-016-0"
+    },
+    
+    
+    {
+        
+        "_id": "",
+        "subcode": "17EC34",
+        "subname": "DIGITAL ELECTRONICS",
+        "m1": "Module 1",
+        "m1desc": "Principles of combination logic:\n Definition of combinational logic, canonical forms,\n Generation of switching equations from truth tables, Karnaugh maps-3,4,5 variables,\n Incompletely specified functions (Don‘t care terms) Simplifying Max term equations,\n Quine-McCluskey minimization technique, Quine-McCluskey using don‘t care terms,\n Reduced prime implicants Tables (Text 1, Chapter 3).\n\n ",
+        "m2": "Module 2",
+        "m2desc": "Analysis and design of combinational logic\n: General approach to combinational\n logic design, Decoders, BCD decoders, Encoders, digital multiplexers, Using\n multiplexers as Boolean function generators, Adders and subtractors, Cascading full\n adders, Look ahead carry, Binary comparators (Text 1, Chapter 4). L1, L2, L3\n\n",
+        "m3": "Module 3",
+        "m3desc": "Flip-Flops:\n Basic Bistable elements, Latches, Timing considerations, The master-slave\n flip-flops (pulse-triggered flip-flops): SR flip-flops, JK flip-flops, Edge triggered flipflops, Characteristic equations. (Text 2, Chapter 6) \n\n",
+        "m4": "Module 4",
+        "m4desc": "Simple Flip-Flops Applications:\n Registers, binary ripple counters, synchronous binary\n counters, Counters based on shift registers, Design of a synchronous counters,\n Design of a synchronous mod-n counter using clocked T , JK , D and SR flip-flops. \n (Text 2, Chapter 6) L1,L2, L3,\n\n",
+        "m5": "Module 5",
+        "m5desc": "Sequential Circuit Design:\n Mealy and Moore models, State machine notation,\n Synchronous Sequential circuit analysis, Construction of state diagrams, counter\n design. (Text 1, Chapter 6) L1, L2, L3\n\n",
+        "descname": "Text Books:\n1. Digital Logic Applications and Design, John M Yarbrough, Thomson Learning\n,2001. ISBN 981-240-062-1.\n 2. Donald D. Givone, ―Digital Principles and Design‖, McGraw Hill, 2002. ISBN 978-0-07-052906-9.\n\n",
+        "descdata": "Reference Books:\n 1. D. P. Kothari and J. S Dhillon, ―Digital Circuits and Design‖, Pearson, 2016\n,ISBN:9789332543539.\n 2. Morris Mano, ―Digital Design‖, Prentice Hall of India, Third Edition.\n3. Charles H Roth, Jr., ―Fundamentals of logic design‖, Cengage Learning.\n4. K. A. Navas, ―Electronics Lab Manual‖, Volume I, PHI, 5thEdition, 2015, ISBN:\n9788120351424."
+        
+    },
+        
+    {
+        
+        "_id": "",
+        "subcode": "17EC35",
+        "subname": "NETWORK ANALYSIS",
+        "m1": "Module 1",
+        "m1desc": "Basic Concepts:\nPractical sources, Source transformations, Network reduction using\nStar – Delta transformation, Loop and node analysis with linearly dependent and\nindependent sources for DC and AC networks, Concepts of super node and super\nmesh. L1, L2,L3,L4\n\n",
+        "m2": "Module 2",
+        "m2desc": "Network Theorems:\nSuperposition, Reciprocity, Millman‘s theorems, Thevinin‘s and Norton‘s theorems,\nMaximum Power transfer theorem. L1, L2, L3,L4\n\n",
+        "m3": "Module 3",
+        "m3desc": "Transient behavior and initial conditions:\nBehavior of circuit elements under\nswitching condition and their Representation, evaluation of initial and final conditions\nin RL, RC and RLC circuits for AC and DC excitations.\nLaplace Transformation & Applications: Solution of networks, step, ramp and\nimpulse responses, waveform Synthesis. L1, L2, L3,L4\n\n",
+        "m4": "Module 4",
+        "m4desc": "Resonant Circuits:\nSeries and parallel resonance,frequency- response of series and\nParallel circuits, Q–Factor, Bandwidth. L1, L2, L3,L4\n\n",
+        "m5": "Module 5",
+        "m5desc": "Two port network parameters:\nDefinition of Z, Y, h and Transmission parameters,\nmodeling with these parameters, relationship between parameters sets. L1, L2, L3,L4\n\n",
+        "descname": "Text Books:\n1. M.E. Van Valkenberg (2000), ―Network analysis‖, Prentice Hall of India, 3rd\nedition, 2000, ISBN: 9780136110958.\n2. Roy Choudhury, ―Networks and systems‖, 2nd edition, New Age International\nPublications, 2006, ISBN: 9788122427677.",
+        "descdata": "Reference Books:\n1. Hayt, Kemmerly and Durbin ―Engineering Circuit Analysis‖, TMH 7th Edition,\n2010.\n\n2. J. David Irwin /R. Mark Nelms, ―Basic Engineering Circuit Analysis‖, John Wiley,\n8thed, 2006.\n\n3. Charles K Alexander and Mathew N O Sadiku, ― Fundamentals of Electric\nCircuits‖, Tata McGraw-Hill, 3rd Ed, 2009."
+        
+    },
+    
+    {
+        "_id": "",
+        "subcode": "17EC36",
+        "subname": "ENGINEERING ELECTROMAGNETICS",
+        "m1": "Module 1",
+        "m1desc": "Coulomb’s Law, Electric Field Intensity and Flux density Experimental law of\n Coulomb, Electric field intensity, Field due to continuous volume charge\n distribution, Field of a line charge, Electric flux density. L1, L2, L3\n\n",
+        "m2": "Module 2",
+        "m2desc": "Gauss’s law and Divergence Gauss‘ law, Divergence.\n Maxwell‘s First equation (Electrostatics), Vector Operator\n ▼ and divergence theorem.\n\nEnergy, Potential and Conductors Energy expended in\n moving a point charge in an electric field, The line\n integral, Definition of potential difference and potential,\n The potential field of point charge, Current and Current\n density, Continuity of current. L1, L2, L3\n\n",
+        "m3": "Module 3",
+        "m3desc": "Poisson’s and Laplace’s Equations Derivation of\n Poisson‘s and Laplace‘s Equations, Uniqueness theorem,\n Examples of the solution of Laplace‘s equation.\nSteady Magnetic Field Biot-Savart Law, Ampere‘s\n circuital law, Curl, Stokes‘ theorem, Magnetic flux and\n magnetic flux density, Scalar and Vector Magnetic\n Potentials. L1, L2, L3\n\n",
+        "m4": "Module 4",
+        "m4desc": "Magnetic Forces\n Force on a moving charge, differential\n current elements, Force between differential current\n elements.\n\nMagnetic Materials Magnetisation and permeability,\n Magnetic boundary conditions, Magnetic circuit, Potential\n Energy and forces on magnetic materials. L1, L2, L3\n\n ",
+        "m5": "Module 5",
+        "m5desc": "Time-varying fields and Maxwell’s equations\n Faraday‘s law, displacement current, Maxwell‘s equations in point\n form, Maxwell‘s equations in integral form.\n\nUniform Plane Wave Wave propagation in free space\n and good conductors. Poynting‘s theorem and wave\n power, Skin Effect. L1, L2, L3\n\n",
+        "descname": "Text Book:\n W.H. Hayt and J.A. Buck, ―Engineering Electromagnetics‖, 7th Edition, Tata\nMcGraw-Hill, 2009, ISBN-978-0-07-061223-5.\n\n",
+        "descdata": "Reference Books:\n1. John Krauss and Daniel A Fleisch, ―Electromagnetics with applications,\nMcGraw- Hill.\n2. N. Narayana Rao, ―Fundamentals of Electromagnetics for Engineering‖, Pearson.\n"
+    }
+    
+        
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+    
+
+
+ 
