@@ -3,7 +3,6 @@
     "branchname":"Aeronoutic Engineering",
     "subjno":"6",
     "labno":"2",
-    "subjects":[{
         "subj1":"Engineering Mathematics - III",
         "subj2":"Elements of Aeronautics",
         "subj3":"Aerothermodynamics",
@@ -11,8 +10,7 @@
         "subj5":"Mechanics of Fluid",
         "subj6":"Measurement and Metrology",
         "labname1":"MEASUREMENT AND METROLOGY LAB",
-        "labname2":"MACHINE SHOP LAB "
-    }],
+        "labname2":"MACHINE SHOP LAB ",
     "subj1data":[{
         "_id": "5ef768fd2c5a1e0c0ca7ffff",
         "subcode": "17MAT31",
