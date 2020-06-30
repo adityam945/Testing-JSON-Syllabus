@@ -21,7 +21,7 @@
         "notesscreentype": "NotesListSubjFile",
         "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
         "notesscreenparams": "aenotessemlist.json",
-        "qpscreentype": "QPListSubjFile",
+        "qpscreentype": "QPaperListSubjsFile",
         "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
         "qpscreenparams": "aeqpsemlist.json",
         "qbscreentype": "",
