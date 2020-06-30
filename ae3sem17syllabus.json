@@ -41,12 +41,12 @@
         "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
         "notesscreenname": "NotesListFile",
         "notesscreenparams": "17mat31notes.json",
-        "qpscreentype": "",
-        "qpurl": "",
-        "qpscreenparams": "",
-        "qbscreentype": "",
-        "qburl": "",
-        "qbscreenparams": ""
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+        "qpscreenparams": "17mat31notes.json",
+        "qbscreentype": "QBankListFile",
+        "qburl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+        "qbscreenparams": "17mat31notes.json"
       }
     ],
 
