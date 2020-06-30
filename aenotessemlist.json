@@ -27,14 +27,14 @@
           {
             "id": "1",
             "notessubjname": "M4-test data",
-            "notesnotesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+            "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
             "notesscreenname": "NotesListFile",
             "notesscreenparams": "17mat31notes.json"
           },
           {
             "id": "2",
             "subjname": "Aero subj 2-test data",
-            "notesnotesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+            "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
             "notesscreenname": "NotesListFile",
             "notesscreenparams": "17mat31notes.json"
           }
