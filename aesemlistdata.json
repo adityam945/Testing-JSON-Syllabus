@@ -24,9 +24,9 @@
         "qpscreentype": "QPaperListSubjsFile",
         "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
         "qpscreenparams": "aeqpsemlist.json",
-        "qbscreentype": "",
-        "qburl": "",
-        "qbscreenparams": ""
+        "qbscreentype": "QBankListSubjsFile",
+        "qburl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+        "qbscreenparams": "aeqbsemlist.json"
       },
       {
         "id": "1",
