@@ -10,7 +10,7 @@
     "notesscreentype": "NotesListFile",
     "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
     "notesscreenparams": "17mat31notes.json",
-    "qpscreentype": "QBankListFile",
+    "qpscreentype": "QPaperListFile",
     "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
     "qpscreenparams": "17mat31qp.json",
     "notesdata": [
