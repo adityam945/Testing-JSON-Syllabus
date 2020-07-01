@@ -11,33 +11,33 @@
             "subjname": "M3-test data QP",
             "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
             "qpscreenname": "QPaperListFile",
-            "qpscreenparams": "17mat31notes.json"
+            "qpscreenparams": "17mat31qp.json"
           },
           {
             "id": "2",
             "subjname": "M2 QP",
             "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
             "qpscreenname": "QPaperListFile",
-            "qpscreenparams": "17mat31notes.json"
+            "qpscreenparams": "17mat31qp.json"
           }
         ]
       },
       {
-        "semno": "4",
+        "subjname": "AEROsubj2",
         "subjdata": [
           {
             "id": "1",
             "subjname": "M4-test data QP",
             "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
             "qpscreenname": "QPaperListFile",
-            "qpscreenparams": "17mat31notes.json"
+            "qpscreenparams": "17mat31qp.json"
           },
           {
             "id": "2",
             "subjname": "Aero subj 2-test data Qp",
             "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
             "qpscreenname": "QPaperListFile",
-            "qpscreenparams": "17mat31notes.json"
+            "qpscreenparams": "17mat31qp.json"
           }
         ]
       }
