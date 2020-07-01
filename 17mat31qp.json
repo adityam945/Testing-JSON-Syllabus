@@ -1,0 +1,22 @@
+[
+  {
+    "branchname": "AE",
+    "semno": "3",
+    "subjname": "Engineering Mathematics - III-QP",
+    "subjcode": "17MAT31",
+    "notesdata": [
+      {
+        "notesname": "Module1-QP",
+        "notesurl": "https://github.com/adityam945/CSE-Uploads-Notes/blob/master/17cs3_data_struct.docx?raw=true"
+      },
+      {
+        "notesname": "module2-QP",
+        "notesurl": "https://github.com/adityam945/CSE-Uploads-Notes/blob/master/17cs3_data_struct.docx?raw=true"
+      },
+            {
+        "notesname": "module2-QP",
+        "notesurl": "https://github.com/adityam945/CSE-Uploads-Notes/blob/master/17cs3_data_struct.docx?raw=true"
+      }
+    ]
+  }
+]
