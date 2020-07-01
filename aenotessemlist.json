@@ -1,9 +1,10 @@
 [
   {
     "branchname": "AE",
+    "semno":"3",
     "semdata": [
       {
-        "semno": "3",
+        "subjname": "mat3 notes",
         "subjdata": [
           {
             "id": "1",
@@ -22,7 +23,7 @@
         ]
       },
       {
-        "semno": "4",
+        "subjname": "aero2notes",
         "subjdata": [
           {
             "id": "1",
