@@ -1,9 +1,18 @@
 [
   {
-    "branchname": "AE",
+    "branchname": "MAt DEpt",
     "semno": "3",
     "subjname": "Engineering Mathematics - III-QP",
     "subjcode": "17MAT31",
+    "syllabusscreentype": "SyllabusFile",
+    "syllabusurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+    "syllabusscreenparams": "17mat31syllabus.json",
+    "notesscreentype": "NotesListFile",
+    "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+    "notesscreenparams": "17mat31notes.json",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+    "qbscreenparams": "17mat31qb.json",
     "notesdata": [
       {
         "notesname": "Module1-QP",
@@ -13,7 +22,7 @@
         "notesname": "module2-QP",
         "notesurl": "https://github.com/adityam945/CSE-Uploads-Notes/blob/master/17cs3_data_struct.docx?raw=true"
       },
-            {
+      {
         "notesname": "module2-QP",
         "notesurl": "https://github.com/adityam945/CSE-Uploads-Notes/blob/master/17cs3_data_struct.docx?raw=true"
       }
