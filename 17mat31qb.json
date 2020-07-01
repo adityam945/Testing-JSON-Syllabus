@@ -1,20 +1,30 @@
 [
   {
+    "branchname": "MAt DEpt",
     "semno": "3",
-    "subjname": "Engineering Mathematics - III-QP(DCnotes)",
+    "subjname": "Engineering Mathematics - III-QP",
     "subjcode": "17MAT31",
+    "syllabusscreentype": "SyllabusFile",
+    "syllabusurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+    "syllabusscreenparams": "17mat31syllabus.json",
+    "notesscreentype": "NotesListFile",
+    "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+    "notesscreenparams": "17mat31notes.json",
+    "qpscreentype": "QBankListFile",
+    "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+    "qpscreenparams": "17mat31qp.json",
     "notesdata": [
       {
-        "notesname": "Module1-Qb",
-        "notesurl": "https://github.com/adityam945/CSE-Uploads-Notes/blob/master/17cs4_DC.docx?raw=true"
+        "notesname": "Module1-QB",
+        "notesurl": "https://github.com/adityam945/CSE-Uploads-Notes/blob/master/17cs3_data_struct.docx?raw=true"
       },
       {
-        "notesname": "module2-QPB",
-        "notesurl": "https://github.com/adityam945/CSE-Uploads-Notes/blob/master/17cs4_DC.docx?raw=true"
-      },
-            {
         "notesname": "module2-QB",
-        "notesurl": "https://github.com/adityam945/CSE-Uploads-Notes/blob/master/17cs4_DC.docx?raw=true"
+        "notesurl": "https://github.com/adityam945/CSE-Uploads-Notes/blob/master/17cs3_data_struct.docx?raw=true"
+      },
+      {
+        "notesname": "module2-QB",
+        "notesurl": "https://github.com/adityam945/CSE-Uploads-Notes/blob/master/17cs3_data_struct.docx?raw=true"
       }
     ]
   }
