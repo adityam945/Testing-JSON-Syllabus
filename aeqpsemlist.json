@@ -1,23 +1,24 @@
 [
   {
     "branchname": "AE",
+    "semno" : "3",
     "semdata": [
       {
-        "semno": "3",
+        "subjname": "MAT3",
         "subjdata": [
           {
             "id": "1",
             "subjname": "M3-test data QP",
-            "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
-            "notesscreenname": "QPaperListFile",
-            "notesscreenparams": "17mat31notes.json"
+            "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+            "qpscreenname": "QPaperListFile",
+            "qpscreenparams": "17mat31notes.json"
           },
           {
             "id": "2",
-            "subjname": "Aero subj 2-test data QP",
-            "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
-            "notesscreenname": "QPaperListFile",
-            "notesscreenparams": "17mat31notes.json"
+            "subjname": "M2 QP",
+            "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+            "qpscreenname": "QPaperListFile",
+            "qpscreenparams": "17mat31notes.json"
           }
         ]
       },
@@ -27,16 +28,16 @@
           {
             "id": "1",
             "subjname": "M4-test data QP",
-            "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
-            "notesscreenname": "QPaperListFile",
-            "notesscreenparams": "17mat31notes.json"
+            "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+            "qpscreenname": "QPaperListFile",
+            "qpscreenparams": "17mat31notes.json"
           },
           {
             "id": "2",
             "subjname": "Aero subj 2-test data Qp",
-            "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
-            "notesscreenname": "QPaperListFile",
-            "notesscreenparams": "17mat31notes.json"
+            "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
+            "qpscreenname": "QPaperListFile",
+            "qpscreenparams": "17mat31notes.json"
           }
         ]
       }
