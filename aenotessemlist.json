@@ -2,6 +2,7 @@
   {
     "branchname": "AE",
     "semno":"3",
+    "valuename" : "notes",
     "semdata": [
       {
         "subjname": "mat3 notes",
