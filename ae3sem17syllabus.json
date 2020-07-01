@@ -43,10 +43,10 @@
         "notesscreenparams": "17mat31notes.json",
         "qpscreentype": "QPaperListFile",
         "qpurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
-        "qpscreenparams": "17mat31notes.json",
+        "qpscreenparams": "17mat31qp.json",
         "qbscreentype": "QBankListFile",
         "qburl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
-        "qbscreenparams": "17mat31notes.json"
+        "qbscreenparams": "17mat31qb.json"
       }
     ],
 
