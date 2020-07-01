@@ -6,17 +6,18 @@
     "semdata": [
       {
         "subjname": "mat3 notes",
+        "subjcode": "17mat31",
         "subjdata": [
           {
             "id": "1",
-            "subjname": "M3-test data",
+            "subjname": "Module1",
             "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
             "notesscreenname": "NotesListFile",
             "notesscreenparams": "17mat31notes.json"
           },
           {
             "id": "2",
-            "subjname": "Aero subj 2-test data",
+            "subjname": "Module 2",
             "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
             "notesscreenname": "NotesListFile",
             "notesscreenparams": "17mat31notes.json"
@@ -24,18 +25,19 @@
         ]
       },
       {
-        "subjname": "aero2notes",
+        "subjname": "aero2 notes",
+        "subjcode": "17ae32",
         "subjdata": [
           {
             "id": "1",
-            "subjname": "M4-test data",
+            "subjname": "M1",
             "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
             "notesscreenname": "NotesListFile",
             "notesscreenparams": "17mat31notes.json"
           },
           {
             "id": "2",
-            "subjname": "Aero subj 2-test data",
+            "subjname": "M2",
             "notesurl": "https://adityam945.github.io/Testing-JSON-Syllabus/",
             "notesscreenname": "NotesListFile",
             "notesscreenparams": "17mat31notes.json"
