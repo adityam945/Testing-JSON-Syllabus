@@ -5,6 +5,7 @@
     "subjno": "6",
     "labno": "2",
     "subj1": "Engineering Mathematics - III",
+    "subj1params":"subj1data",
     "subj1code": "17MAT31",
     "subj2": "Elements of Aeronautics",
     "subj2code": "17AE32",
