@@ -1,0 +1,39 @@
+[
+    {
+      "beanchname": "AERONAUTICAL ENGINEERING",
+      "semdata": [
+        {
+          "id": "1112",
+          "semname": "Semester 5",
+          "labno": "2",
+          "subjno": "12",
+          "subj1": "MANAGEMENT AND ENTREPRENEURSHIP",
+          "subj2": "INTRODUCTION TO COMPOSITE MATERIALS",
+          "subj3": "HEAT AND MASS TRANSFER",
+          "subj4": "AIRCRAFT STRUCTURES-I",
+          "subj5": "FUELS & COMBUSTION",
+          "subj6": "GAS DYNAMICS",
+          "subj7": "THEORY OF VIBRATIONS",
+          "subj8": "AIRCRAFT ELECTRICAL SYSTEMS & INSTRUMENTATION",
+          "subj9": "HISTORY OF FLIGHT & TECHNOLOGY FORECAST",
+          "subj10": "ELEMENTS OF AERONAUTICS",
+          "subj11": "AIRCRAFT TRANSPORTATION SYSTEMS",
+          "subj12": "BASICS OF ROCKETS AND MISSILES",
+          "labname1": "AERODYNAMICS LAB",
+          "labname2": "ENERGY CONVERSION & FLUID MECHANICS LAB",
+          "syllabusscreentype": "SyllabusFile",
+          "syllabusurl": "",
+          "syllabusscreenparams": "",
+          "notesscreentype": "NotesListSubjFile",
+          "notesurl": "",
+          "notesscreenparams": "",
+          "qpscreentype": "QPaperListSubjsFile",
+          "qpurl": "",
+          "qpscreenparams": "",
+          "qbscreentype": "QBankListSubjsFile",
+          "qburl": "",
+          "qbscreenparams": ""
+        }
+    ]
+}
+]
