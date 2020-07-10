@@ -9,7 +9,7 @@
     "m3": "Module 3",
     "m3desc": "Wave Phenomena: \nClassification of wave phenomena, analysis of shock phenomena, Hugoniot equation. Weak waves, compression waves, Normal shock waves, oblique shock waves, Entropy considerations, Rayleigh Pilot equations, detonation and deflageration.",
     "m4": "Module 4",
-    "m4desc": "Variable Area Flow: \nVelocity variation with Isentropic flow, Criteria for acceleration and deceleration. Effect of pressure ratio on Nozzle operation. Convergent nozzle and convergent divergent nozzle. Effect of back pressure on nozzle flow.  Isothermal flow functions. Comparison of flow in nozzle. Generalized one dimensional flow.",
+    "m4desc": "Variable Area Flow: \nVelocity variation with Isentropic flow, Criteria for acceleration and deceleration. Effect of pressure ratio on Nozzle operation. Convergent nozzle and convergent divergent nozzle. Effect of back pressure on nozzle flow.Isothermal flow functions. Comparison of flow in nozzle. Generalized one dimensional flow.",
     "m5": "Module 5",
     "m5desc": "Applications of dimensional analysis and similitude to gas dynamic problems.\n\nIntroduction to Flames and Combustion: \nFlame propagation, diffusion flames, premixed flames, flame velocity, theories of flame propagation, ignition for combustible mixture, flame stabilization.",
     "descname": "Prescribed text books",
