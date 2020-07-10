@@ -3,7 +3,7 @@
     "subcode": "17AE53",
     "subname": "HEAT & MASS TRANSFER",
     "m1": "Module 1",
-    "m1desc": "Fundamentals: \nDifferent modes of heat transfer and mass and momentum transfer, elements of mass diffusion and boundary layer theory. Mass  transfer definition  and  terms  used  in  mass  transfer  analysis,  Fick’s  First  law  of diffusion (no numerical).",
+    "m1desc": "Fundamentals: \nDifferent modes of heat transfer and mass and momentum transfer, elements of mass diffusion and boundary layer theory. Mass  transfer definition  and  terms  used  in  mass  transfer  analysis,Fick’s  First  law  of diffusion (no numerical).",
     "m2": "Module 2",
     "m2desc": "Conduction: \nDerivation of general three dimensional conduction equation in Cartesian coordinate, special cases, discussion  on 3-D  conduction  in cylindrical  and  spherical  coordinate  systems. Effect of variation of thermal conductivity on heat transfer in solids - Heat transfer problems in infinite and semi-infinite solids - Extended surfaces.",
     "m3": "Module 3",
