@@ -1,0 +1,84 @@
+[
+  {
+    "semno": "Semester 5",
+    "branchname": "CIVIL",
+    "subjno": "6",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+
+    "url": "",
+
+    "subjdata": [
+      {
+        "subj": "DESIGN OF RC STRUCTURAL ELEMENTS",
+        "subjcode": "17CV51",
+        "subjparams": ""
+      },
+      {
+        "subj": "ANALYSIS OF INDETERMINATE STRUCTURES",
+        "subjcode": "17CV52",
+        "subjparams": ""
+      },
+      {
+        "subj": "APPLIED GEOTECHNICAL ENGINEERING",
+        "subjcode": "17CV53",
+        "subjparams": ""
+      },
+      {
+        "subj": "COMPUTER AIDED BUILDING PLANNING AND DRAWING ",
+        "subjcode": "17CV54",
+        "subjparams": ""
+      },
+      {
+        "subj": "AIR POLLUTION AND CONTROL",
+        "subjcode": "17CV551",
+        "subjparams": ""
+      },
+      {
+        "subj": "RAILWAYS, HARBOUR, TUNNELING AND AIRPORTS",
+        "subjcode": "17CV552",
+        "subjparams": ""
+      },
+      {
+        "subj": "MASONRY STRUCTURES ",
+        "subjcode": "17CV553",
+        "subjparams": ""
+      },
+      {
+        "subj": "THEORY OF  ELASTICITY",
+        "subjcode": "17CV554",
+        "subjparams": ""
+      },
+      {
+        "subj": "TAFFIC ENGINEERING",
+        "subjcode": "17CV561",
+        "subjparams": ""
+      },
+      {
+        "subj": "SUSTAINABILITY CONCEPTS IN ENGINEERING",
+        "subjcode": "17CV562",
+        "subjparams": ""
+      },
+      {
+        "subj": "REMOTE SENSING AND GIS",
+        "subjcode": "17CV563",
+        "subjparams": ""
+      },
+      {
+        "subj": "OCCUPATIONAL HEALTH AND SAFETY",
+        "subjcode": "17CV564",
+        "subjparams": ""
+      },
+      {
+        "subj": "GEOTECHNICAL ENGINEERING LAB",
+        "subjcode": "17CVL57",
+        "subjparams": ""
+      },
+      {
+        "subj": "CONCRETE AND HIGHWAY MATERIALS LABORATORY ",
+        "subjcode": "17CVL58",
+        "subjparams": ""
+      }
+    ]
+  }
+]

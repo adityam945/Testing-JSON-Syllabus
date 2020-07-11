@@ -1,0 +1,54 @@
+[
+  {
+    "semno": "Semester 3",
+    "branchname": "CIVIL",
+    "subjno": "6",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+
+    "url": "",
+
+    "subjdata": [
+      {
+        "subj": "Engineering Mathematics-III",
+        "subjcode": "17MAT31",
+        "subjparams": ""
+      },
+      {
+        "subj": "Strength of Materials",
+        "subjcode": "17CV32",
+        "subjparams": ""
+      },
+      {
+        "subj": "Fluid Mechanics",
+        "subjcode": "17CV33",
+        "subjparams": ""
+      },
+      {
+        "subj": "Basic Surveying",
+        "subjcode": "17CV34",
+        "subjparams": ""
+      },
+      {
+        "subj": "Engineering Geology",
+        "subjcode": "17CV35",
+        "subjparams": ""
+      },
+      {
+        "subj": "Building Materials and Construction",
+        "subjcode": "17CV36",
+        "subjparams": ""
+      },
+      {
+        "subj": "Building Materials Testing Laboratory",
+        "subjcode": "17CVL37",
+        "subjparams": ""
+      },
+      {
+        "subj": "Basic Surveying Practice",
+        "subjcode": "17CVL38",
+        "subjparams": ""
+      }
+    ]
+  }
+]
