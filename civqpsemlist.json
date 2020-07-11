@@ -1,0 +1,216 @@
+[
+  {
+    "branchname": "CIVIL",
+
+    "semdata": [
+      {
+        "id": "1",
+
+        "disabled": "disabled",
+
+        "semname": "Semester 3",
+
+        "labno": "2",
+
+        "subjno": "6",
+
+        "subdata": [
+          {
+            "subj": "1.Engineering Mathematics-III"
+          },
+          {
+            "subj": "2.Strength Of Materials"
+          },
+          {
+            "subj": "3.Fluid Mechanics"
+          },
+          {
+            "subj": "4.Basic Surveying"
+          },
+          {
+            "subj": "5.Engineering Geology"
+          },
+          {
+            "subj": "6.Building Materials and Construction"
+          },
+          {
+            "subj": "L.1 Building Material Testing Laboratory"
+          },
+          {
+            "subj": "L.2 Basic Surveying Practice"
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
+
+        "syllabusurl": "",
+
+        "syllabusscreenparams": "",
+
+        "notesscreentype": "NotesListSubjFile",
+
+        "notesurl": "",
+
+        "notesscreenparams": "",
+
+        "qpscreentype": "QPaperListSubjsFile",
+
+        "qpurl": "",
+
+        "qpscreenparams": "",
+
+        "qbscreentype": "QBankListSubjsFile",
+
+        "qburl": "",
+
+        "qbscreenparams": ""
+      },
+
+      {
+        "id": "2",
+
+        "disabled": "disabled",
+
+        "semname": "Semester 4",
+
+        "labno": "2",
+
+        "subjno": "6",
+
+        "subdata": [
+          {
+            "subj": "1.Engineering Mathematics-IV"
+          },
+          {
+            "subj": "2.Analysis Of Determinate Structure"
+          },
+          {
+            "subj": "3.Applied Hydraulics"
+          },
+          {
+            "subj": "4.Concrete Technology"
+          },
+          {
+            "subj": "5.Basic Geotechnical Engineering"
+          },
+          {
+            "subj": "6.Advanced Surveying"
+          },
+          {
+            "subj": "L.1 Fluid Mechanics Laboratory"
+          },
+          {
+            "subj": "L.2 Engineering Geology Laboratory"
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
+
+        "syllabusurl": "",
+
+        "syllabusscreenparams": "",
+
+        "notesscreentype": "NotesListSubjFile",
+
+        "notesurl": "",
+
+        "notesscreenparams": "",
+
+        "qpscreentype": "QPaperListSubjsFile",
+
+        "qpurl": "",
+
+        "qpscreenparams": "",
+
+        "qbscreentype": "QBankListSubjsFile",
+
+        "qburl": "",
+
+        "qbscreenparams": ""
+      },
+
+      {
+        "id": "3",
+        "disabled": "disabled",
+        "semname": "Semester 5",
+        "labno": "2",
+        "subjno": "6",
+
+        "subdata": [
+          {
+            "subj": "1.DESIGN OF RC STRUCTURAL ELEMENTS "
+          },
+          {
+            "subj": "2.ANALYSIS OF INDETERMINATE STRUCTURES"
+          },
+          {
+            "subj": "3.APPLIED GEOTECHNICAL ENGINEERING"
+          },
+          {
+            "subj": "4. COMPUTER AIDED BUILDING PLANNING AND DRAWING"
+          },
+          {
+            "subj": "PROFESSIONAL ELECTIVE-1"
+          },
+          {
+            "subj": "i.AIR POLLUTION AND CONTROL "
+          },
+          {
+            "subj": "ii.RAILWAYS, HARBOUR, TUNNELING AND AIRPORTS"
+          },
+          {
+            "subj": "iii.MASONRY STRUCTURES "
+          },
+          {
+            "subj": "iv.THEORY OF  ELASTICITY "
+          },
+          {
+            "subj": "OPEN ELECTIVE-2"
+          },
+          {
+            "subj": "i.TAFFIC ENGINEERING "
+          },
+          {
+            "subj": "ii.SUSTAINABILITY CONCEPTS IN ENGINEERING "
+          },
+          {
+            "subj": "iii.REMOTE SENSING AND GIS "
+          },
+          {
+            "subj": "iv.OCCUPATIONAL HEALTH AND SAFETY "
+          },
+          {
+            "subj": "L.1 GEOTECHNICAL ENGINEERING LAB "
+          },
+          {
+            "subj": "L.2 CONCRETE AND HIGHWAY MATERIALS LABORATORY "
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
+
+        "syllabusurl": "",
+
+        "syllabusscreenparams": "",
+
+        "notesscreentype": "NotesListSubjFile",
+
+        "notesurl": "",
+
+        "notesscreenparams": "",
+
+        "qpscreentype": "QPaperListSubjsFile",
+
+        "qpurl": "",
+
+        "qpscreenparams": "",
+
+        "qbscreentype": "QBankListSubjsFile",
+
+        "qburl": "",
+
+        "qbscreenparams": ""
+      }
+    ]
+  }
+]
