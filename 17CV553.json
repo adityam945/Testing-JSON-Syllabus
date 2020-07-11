@@ -1,0 +1,28 @@
+[
+  {
+    "id": "7777",
+    "subcode": "17CV553",
+    "subname": "MASONRY STRUCTURES",
+    "m1": "Module 1",
+    "m1desc": "Masonry Units, Materials, types and masonry construction:\n Bricks, Stone and Block masonry units- strength, modulus of elasticity and water absorption of masonry materials – classification and properties o f mortars. Defects and Errors in masonry construction – cracks in masonry, types, reason for cracking, methods of avoiding cracks.Strength and Stability:\n Strength and stability of axially loaded masonry walls, effect of unit strength, mortar strength, joint thickness, rate of absorption, effect of curing, effect of ageing, workmanship. Compressive strength formulae based on elastic theory and empirical formulae.",
+    "m2": "Module 2",
+    "m2desc": "Permissible stresses:\nTypes of walls, permissible compressive stress, stress reduction and shape modification factors, increase in permissible stresses for eccentric vertical and lateral load, permissible tensile stress and shear stresses.Design Considerations:\n Effective height of walls and columns, openings in walls, effective length, effective thickness, slenderness ratio, eccentricity, load dispersion, arching action in lintels. Problems on design considerations for solid walls, cavity walls, wall with pillars.",
+    "m3": "Module 3",
+    "m3desc": "Load considerations and design of Masonry subjected to axial loads:\n Design criteria, design examples of walls under UDL, solid walls, cavity walls, solid wall supported at the ends by cross wall, walls with piers.",
+    "m4": "Module 4",
+    "m4desc": "Design of walls subjected to concentrated axial loads:\n Solid walls, cavity walls, solid wall supported at the ends by cross wall, walls with piers, design of wall with openings.Design of walls subjected to eccentric loads:\n Design criteria – stress distribution under eccentric loads – problems on eccentrically loaded solid walls, cavity walls, walls with piers.",
+    "m5": "Module 5",
+    "m5desc": "Design of Laterally and transversely loaded walls:\n Design criteria, design of solid wall under wind loading, design of shear wall – design of compound walls. Introduction to reinforced brick masonry, lintels and slabs. In-filled frames: Types – modes of failures – design criteria of masonry retaining walls.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "",
+    "qbscreenparams": ""
+  }
+]

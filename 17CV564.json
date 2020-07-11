@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1012",
+    "subcode": "17CV564",
+    "subname": "OCCUPATIONAL HEALTH AND SAFETY",
+    "m1": "Module 1",
+    "m1desc": "Occupational Hazard and Control Principles: Safety, History and development, National Safety Policy. Occupational safety and Health Act (OSHA), Occupational Health and Safety administration - Laws governing OSHA and right to know. Accident – causation, investigation, investigation plan, Methods of acquiring accident facts, Supervisory role in accident investigation.",
+    "m2": "Module 2",
+    "m2desc": "Ergonomics at Work Place: Ergonomics Task analysis, Preventing Ergonomic Hazards, Work space Envelops, Visual Ergonomics, Ergonomic Standards, Ergonomic Programs. Hazard cognition and Analysis, Human Error Analysis – Fault Tree Analysis – Emergency Response - Decision for action – purpose and considerations.",
+    "m3": "Module 3",
+    "m3desc": " Fire Prevention and Protection: Fire Triangle, Fire Development and its severity, Effect of Enclosures, early detection of Fire, Classification of fire and Fire Extinguishers. Electrical Safety, Product Safety: Technical Requirements of Product safety.",
+    "m4": "Module 4",
+    "m4desc": "Health Considerations at Work Place: types of diseases and their spread, Health Emergency. Personal Protective Equipment (PPE) – types and advantages, effects of exposure and treatment for engineering industries, municipal solid waste. Environment management plans (EMP) for safety and sustainability.",
+    "m5": "Module 5",
+    "m5desc": "Occupational Health and Safety Considerations: Water and wastewater treatment plants, Handling of chemical and safety measures in water and wastewater treatment plants and labs, Construction material manufacturing industries like cement plants, RMC Plants, precast plants and construction sites. Policies, roles and responsibilities of workers, managers and supervisors.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "",
+    "qbscreenparams": ""
+  }
+]

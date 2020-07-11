@@ -1,0 +1,28 @@
+[
+  {
+    "id": "8888",
+    "subcode": "17CV554",
+    "subname": "THEORY OF  ELASTICITY",
+    "m1": "Module 1",
+    "m1desc": "Concepts of continuum, Stress at a point, Components of stress, Differential equations of equilibrium, Stress transformation, Principal stresses, Maximum shear stress, Stress invariants. Strain at a point, Infinitesimal strain, Strain-displacement relations, Components of strain, Compatibility Equations, Strain transformation, Principal strains, Strain invariants, Measurement of surface strains, strain rosettes.",
+    "m2": "Module 2",
+    "m2desc": "Generalized Hooke’s Law, Stress-strain relationships, Equilibrium equations in terms of displacements and Compatibility equations in terms of stresses, Plane stress and plane strain problems, St. Venant’s principle, Principle of superposition, Uniqueness theorem, Airy’s stress function, Stress polynomials (Two Dimensional cases only).",
+    "m3": "Module 3",
+    "m3desc": "Generalized Hooke’s Law, Stress-strain relationships, Equilibrium equations in terms of displacements and Compatibility equations in terms of stresses, Plane stress and plane strain problems, St. Venant’s principle, Principle of superposition, Uniqueness theorem, Airy’s stress function, Stress polynomials (Two Dimensional cases only). equations of equilibrium, compatibility equation, stress function.",
+    "m4": "Module 4",
+    "m4desc": "Axisymmetric stress distribution - Rotating discs, Lame’s equation for thick cylinder, Effect of circular hole on stress distribution in plates subjected to tension, compression and shear, stress concentration factor.",
+    "m5": "Module 5",
+    "m5desc": "Torsion: Inverse and Semi-inverse methods, stress function, torsion of circular, elliptical, triangular sections.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "",
+    "qbscreenparams": ""
+  }
+]

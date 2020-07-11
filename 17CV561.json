@@ -1,0 +1,28 @@
+[
+    {
+        "id": "9999",
+        "subcode": "17CV561",
+        "subname": "TAFFIC ENGINEERING",
+        "m1": "Module 1",
+        "m1desc":"Traffic Planning and Characteristics:\nRoad Characteristics-Road user characteristics, PIEV theory, Vehicle Performance characteristics, Fundamentals of Traffic Flow, Urban Traffic problems in India, Integrated planning of town, country, regional and all urban infrastructures, Sustainable approach- land use & transport and modal integration.",
+        "m2":"Module 2",
+        "m2desc":"Traffic Surveys:\n Traffic Surveys- Speed, journey  time  and  delay  surveys, Vehicles  Volume  Survey including non-motorized  transports, Methods and interpretation, Origin Destination Survey, Methods and presentation, Parking Survey, Accident analyses-Methods, interpretation and presentation, Statistical applications in traffic studies and traffic forecasting, Level of service- Concept, applications and significance.",
+        "m3":"Module 3",
+        "m3desc":"Traffic Design and Visual Aids:\n Intersection Design- channelization, Rotary intersection design, Signal design, Coordination of signals, Grade separation, Traffic signs including VMS and road markings, Significant roles of traffic control personnel, Networking pedestrian facilities & cycle tracks.",
+        "m4":"Module 4",
+        "m4desc":"Traffic Safety and Environment:\n Road accidents, Causes, effect, prevention, and cost, Street lighting, Traffic and environment hazards, Air and Noise Pollution, causes, abatement measures, Promotion and integration of public transportation, Promotion of non-motorized transport.",
+        "m5":"Module 5",
+        "m5desc":"Traffic Management:\nArea Traffic Management System, Traffic System Management (TSM) with IRC standards, Traffic Regulatory Measures, Travel Demand Management (TDM), Direct and indirect methods, Congestion and parking pricing, All segregation methods- Coordination among different agencies, Intelligent Transport System for traffic management, enforcement and education.",
+        "descname": "Prescribed text books",
+        "descdata": "",
+        "notesurl": "",
+        "notesscreenname": "NotesListFile",
+        "notesscreenparams": "",
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListFile",
+        "qburl": "",
+        "qbscreenparams": ""
+    }
+]
