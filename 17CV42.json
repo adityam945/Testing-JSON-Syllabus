@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0007",
+    "subcode": "17CV42",
+    "subname": "Analysis of Determinate Structures",
+    "m1": "Module 1",
+    "m1desc": "Introduction  and Analysis of Plane Trusses\nStructural forms, Conditions of equilibrium, Compatibility conditions, Degree of freedom, Linear and non linear analysis, Static and kinematic indeterminacies of structural systems, Types of trusses, Assumptions in analysis, Analysis of determinate trusses by method of joints and method of sections.",
+    "m2": "Module 2",
+    "m2desc": "Deflection of Beams\nDefinition of slope, Deflection and curvature, Sign conventions, Derivation of moment-curvature equation. Double integration method and Macaulay’s method: Slope and deflection for standard loading cases and for determinate prismatic beams subjected to point loads, UDL, UVL and couple. Moment area method: Derivation, Mohr’s theorems, Sign conventions, Application of moment area method for determinate prismatic beams, Beams of varying section, Use of moment diagram by parts.  Conjugate beam method: Real beam and conjugate beam, conjugate beam theorems, Application of conjugate beam method of determinate beams of variable cross sections.",
+    "m3": "Module 3",
+    "m3desc": "Energy Principles and Energy Theorems\nPrinciple of virtual displacements, Principle of virtual forces, Strain energy and complimentary energy, Strain energy due to axial force, bending, shear and torsion, Deflection of determinate beams and trusses using total strain energy, Deflection at the point of application of single load, Castigliano’s theorems and its application to estimate the deflections of trusses, bent frames, Special applications-Dummy unit load method.",
+    "m4": "Module 4",
+    "m4desc": "Arches and Cable Structures\nThree hinged parabolic arches with supports at the same and different levels. Determination of normal thrust, radial shear and bending moment.  Analysis of cables under point loads and UDL. Length of cables for supports at same and at different levels- Stiffening trusses for suspension cables",
+    "m5": "Module 5",
+    "m5desc": "Influence Lines and Moving Loads\nConcepts of influence lines-ILD for reactions, SF and BM for determinate beams-ILD for axial forces in determinate trussesReactions, BM and SF in determinate beams using rolling loads concepts",
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "",
+
+    "qbscreenparams": ""
+  }
+]

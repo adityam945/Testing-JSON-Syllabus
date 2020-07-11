@@ -1,0 +1,39 @@
+[
+  {
+    "id": "008",
+    "subcode": "17CV33",
+    "subname": "Fluid Mechanics",
+    "m1": "Module 1",
+    "m1desc": "Fluids & Their Properties:\nConcept of fluid, Systems of units. Properties of fluid; Mass density, Specific weight, Specific gravity, Specific volume, Viscosity, Cohesion, Adhesion, Surface tension& Capillarity.  Fluid as a continuum, Newton’s law of viscosity (theory & problems).Capillary rise in a vertical tube and between two plane surfaces (theory & problems). vapor pressure of liquid, compressibility and bulk modulus, capillarity, surface tension, pressure inside a water droplet, pressure inside a soap bubble and liquid jet. Numerical problems.Fluid Pressure and Its Measurements:\nDefinition of pressure, Pressure at a point, Pascal’s law, Variation of pressure with depth.  Types of pressure. Measurement of pressure using simple, differential & inclined manometers (theory & problems).  Introduction to Mechanical and electronic pressure measuring devices.",
+    "m2": "Module 2",
+    "m2desc": "Hydrostatic forces on Surfaces:\nDefinition, Total pressure, centre of pressure,  total pressure on  horizontal, vertical and inclined plane surface, total pressure on curved surfaces, water pressure on gravity dams, Lock gates. Numerical Problems.Fundamentals of fluid flow (Kinematics):\nIntroduction. Methods of describing fluid motion. Velocity and Total acceleration of a fluid particle. Types of fluid flow, Description of flow pattern. Basic principles of fluid flow, three-dimensional continuity equation in Cartesian coordinate system. Derivation for Rotational and irroational motion. Potential function, stream function, orthogonality of streamlines and equipotential lines. Numerical problems on Stream function and velocity potential.  Introduction to flow net.",
+    "m3": "Module 3",
+    "m3desc": "Fluid Dynamics:\nIntroduction. Forces acting on fluid in motion. Euler’s equation of motion along a streamline and Bernoulli’s equation. Assumptions and limitations of Bernoulli’s equation. Modified Bernoulli’s equation. Problems on applications of Bernoulli’s equation (with and without losses).  Vortex motion; forced vortex, free vortex, problems Momentum equation problems on pipe bends.Applications:\nIntroduction. Venturimeter, Orificemeter, Pitot tube. Numerical Problems.",
+    "m4": "Module 4",
+    "m4desc": "Orifice and Mouthpiece:\nIntroduction, classification, flow through orifice, hydraulic coefficients, Numerical problems. Mouthpiece, classification, Borda’s Mouthpiece  (No problems).Notches and Weirs:\nIntroduction. Classification, discharge over rectangular, triangular, trapezoidal notches, Cippoletti notch, broad crested weirs. Numerical problems. Ventilation of weirs, submerged weirs.",
+    "m5": "Module 5",
+    "m5desc": "Flow through Pipes:\nIntroduction. Major and minor losses in pipe flow. Darcy-Weisbach equation for head loss due to friction in a pipe. Pipes in series, pipes in parallel, equivalent pipe-problems. Minor losses in pipe flow, equation for head loss due to sudden expansion. Numerical problems. Hydraulic gradient line, energy gradient line. Pipe Networks, Hardy Cross method, Numerical problems.Surge Analysis in Pipes:\nWater hammer in pipes, equations for pressure rise due to gradual valve closure and sudden closure for rigid and elastic pipes. Problems",
+
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "",
+
+    "qbscreenparams": ""
+  }
+]
