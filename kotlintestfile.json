@@ -1,4 +1,4 @@
-{"info":[  
+[{"info":[  
         {"name":"Ajay","id":"111","email":"ajay@gmail.com"},  
         {"name":"John","id":"112","email":"john@gmail.com"},  
         {"name":"Rahul","id":"113","email":"rahul@gmail.com"},  
@@ -11,4 +11,4 @@
         {"name":"Mukesh","id":"120","email":"mukesh@gmail.com"},  
         {"name":"Ajad","id":"121","email":"ajad@gmail.com"}  
         ]  
-}
+}]
