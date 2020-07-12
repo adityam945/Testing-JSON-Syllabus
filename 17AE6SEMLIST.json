@@ -1,0 +1,73 @@
+[
+    {
+      "beanchname": "AERONOUTICAL ENGINEERING",
+      "semdata": [
+        {
+          "id": "2290",
+          "disabled": "disabled",
+          "semname": "Semester 6",
+          "labno": "2",
+          "subjno": "12",
+          "subdata": [
+            {
+              "subj": "1.AERODYNAMICS-II"
+            },
+            {
+              "subj": "2.GAS TURBINE TECHNOLOGY"
+            },
+            {
+              "subj": "3.AIRCRAFT PERFORMANCE"
+            },
+            {
+              "subj": "4.AIRCRAFT STRUCTURES-II"
+            },
+            {
+              "subj": "5.FINITE ELEMENT METHOD"
+            },
+            {
+              "subj": "6.EXPERIMENTAL AERODYNAMICS"
+            },
+            {
+              "subj": "7.SPACE MECHANICS"
+            },
+            {
+              "subj": "8.EXPERIMENTAL STRESS ANALYSIS"
+            },
+            {
+              "subj": "9.UNMANNED AERIAL VEHICLES BASICS & APPLICATIONS"
+            },
+            {
+              "subj": "10.FUNDAMENTALS OF AERODYNAMIC THEORY"
+            },
+            {
+              "subj": "11.ELEMENTS OF JET PROPULSION SYSTEMS"
+            },
+            {
+              "subj": "12.MAINTENANCE, OVERHAUL & REPAIR OF AIRCRAFT SYSTEMS"
+            },
+            {
+              "subj": "1.AIRCRAFT PROPULSION LAB"
+            },
+            {
+              "subj": "2.AIRCRAFT STRUCTURES LAB"
+            }
+          ],
+  
+          "syllabusscreentype": "SyllabusFile",
+          "syllabusurl": "https://adityam945.github.io/mech-json-files/",
+          "syllabusscreenparams": "mechsem3subjlist.json",
+          "notesscreentype": "NotesListSubjFile",
+          "notesurl": "https://adityam945.github.io/mech-json-files/",
+          "notesscreenparams": "mechsem3notes.json",
+          "qpscreentype": "QPaperListSubjsFile",
+          "qpurl": "https://adityam945.github.io/mech-json-files/",
+          "qpscreenparams": "",
+          "qbscreentype": "QBankListSubjsFile",
+          "qburl": "https://adityam945.github.io/mech-json-files/",
+          "qbscreenparams": ""
+        }
+  
+      ]
+    }  
+    
+  ]
