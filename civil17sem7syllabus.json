@@ -1,0 +1,79 @@
+[
+  {
+    "semno": "Semester 7",
+    "branchname": "CIVIL",
+    "subjno": "6",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+    "url": "",
+
+    "subjdata": [
+      {
+        "subj": " MUNICIPAL AND INDUSTRIAL  WASTE WATER ENGINEERING ",
+        "subjcode": "17CV71",
+        "subjparams": ""
+      },
+      {
+        "subj": " DESIGN OF RCC AND STEEL STRUCTURES ",
+        "subjcode": "17CV72",
+        "subjparams": ""
+      },
+      {
+        "subj": " HYDROLOGY AND IRRIGATION ENGINEERING ",
+        "subjcode": "17CV73",
+        "subjparams": ""
+      },
+
+      {
+        "subj": " DESIGN OF BRIDGES ",
+        "subjcode": "17CV741",
+        "subjparams": ""
+      },
+      {
+        "subj": "GROUND WATER & HYDRAULICS ",
+        "subjcode": "17CV742",
+        "subjparams": ""
+      },
+      {
+        "subj": "DESIGN CONCEPT OF BUILDING SERVICES",
+        "subjcode": "17CV743",
+        "subjparams": ""
+      },
+      {
+        "subj": ": STRUCTURAL DYNAMICS ",
+        "subjcode": "17CV744",
+        "subjparams": ""
+      },
+      {
+        "subj": "URBAN TRANSPORTATION AND PLANNING",
+        "subjcode": "17CV751",
+        "subjparams": ""
+      },
+      {
+        "subj": "PREFABRICATED STRUCTURES ",
+        "subjcode": "17CV752",
+        "subjparams": ""
+      },
+      {
+        "subj": " REHABILITATION AND RETROFITTING OF STRUCTURES ",
+        "subjcode": "17CV753",
+        "subjparams": ""
+      },
+      {
+        "subj": " REINFORCED EARTH STRUCTURES ",
+        "subjcode": "17CV754",
+        "subjparams": ""
+      },
+      {
+        "subj": " ENVIRONMENTAL ENGINEERING LABORATORY ",
+        "subjcode": "17CVL76",
+        "subjparams": ""
+      },
+      {
+        "subj": " COMPUTER AIDED DETAILING OF STRUCTURES ",
+        "subjcode": "17CVL77",
+        "subjparams": ""
+      }
+    ]
+  }
+]
